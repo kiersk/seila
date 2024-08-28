@@ -1,0 +1,17 @@
+:root {
+    --branco-principl:#FFFFFF;
+    --cinza-secundario:#C0C0C0;
+    --cor-de-fundo: #000000;
+}
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    }
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+.container { 
+    height: 100vh;
+}
